@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AlexVoodooPeople
+- 👀 I’m interested in knowledge.
+- 🌱 I’m currently learning QA.
